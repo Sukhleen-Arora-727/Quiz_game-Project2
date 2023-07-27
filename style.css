@@ -1,0 +1,35 @@
+.text{
+
+  font-weight: bold; 
+  font-size: 30;
+  padding-top: 5; 
+  padding-bottom: 3;  
+}
+
+.text-box1{
+
+  height: 50; 
+  width: 150; 
+
+}
+
+.text2{
+
+  padding-top: 150; 
+}
+
+.login_button{
+
+  background-color: green; 
+  border-radius: 18px; 
+}
+
+#output
+{
+  background: white; 
+  border-radius: 10px; 
+  border-top: 10px solid #AA4465; 
+  padding: 10px; 
+  float: none; 
+  text-align: left; 
+}
